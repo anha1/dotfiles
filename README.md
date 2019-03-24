@@ -1,2 +1,2 @@
-# rcfiles
-rcfiles
+# dotfiles
+dotfiles
