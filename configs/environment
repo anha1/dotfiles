@@ -1,0 +1,16 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+IDEA_JDK=/usr/local/tools/openjdk11
+JAVA_HOME=/usr/local/tools/jdk8
+JAVA_OPTS=-Xmx4000m -XX:+UseSerialGC -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=15
+EDITOR=vim
+M2_HOME=/usr/local/tools/maven/
+GRADLE_HOME=/usr/local/tools/gradle-3.4.1/
+NVM_DIR=/home/user/.nvm
+HADOOP_HOME=/usr/local/tools/hadoop
+TERM=xfce4-terminal
+TERMINAL=xfce4-terminal
+#GDK_SCALE=2
